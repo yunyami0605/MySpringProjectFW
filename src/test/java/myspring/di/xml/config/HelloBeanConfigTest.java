@@ -1,4 +1,4 @@
-package myspring.di.annot.config;
+package myspring.di.xml.config;
 
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
